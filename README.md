@@ -1,6 +1,7 @@
 # Pygame-Car-Racing
-Pygame project 1: Car Racing 8 game  `21/10 - 4/11`
- 
+Pygame project 1: Car Racing 8 game  `21/10 - 4/11`  
+Download the zip file [here](https://github.com/eugene0527/Pygame-Car-Racing/blob/main/Car%20Racing/car-racing-8.zip).
+
  ## Features
 **Single-player mode:** A single player challenges the computer. 8 levels. Computer car's speed increases as level goes up.  
 **Dual-player mode:** Two players compete on a computer. With point counting feature.  
